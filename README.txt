@@ -1,4 +1,4 @@
-I have taken guidelines from below mentioned websites to complete my project.
+Investigated response time taken for task of reading congruent words and incongruent words using Hypothesis testing and descriptive statistics
 
 
 REFERNCE LIST:
